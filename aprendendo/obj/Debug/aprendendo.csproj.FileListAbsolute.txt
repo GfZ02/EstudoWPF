@@ -1,0 +1,15 @@
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\aprendendo\bin\Debug\aprendendo.exe.config
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\aprendendo\bin\Debug\aprendendo.exe
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\aprendendo\bin\Debug\aprendendo.pdb
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\aprendendo\obj\Debug\aprendendo.csproj.AssemblyReference.cache
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\aprendendo\obj\Debug\MainWindow.g.cs
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\aprendendo\obj\Debug\App.g.cs
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\aprendendo\obj\Debug\aprendendo_MarkupCompile.cache
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\aprendendo\obj\Debug\aprendendo_MarkupCompile.lref
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\aprendendo\obj\Debug\MainWindow.baml
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\aprendendo\obj\Debug\aprendendo.g.resources
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\aprendendo\obj\Debug\aprendendo.Properties.Resources.resources
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\aprendendo\obj\Debug\aprendendo.csproj.GenerateResource.cache
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\aprendendo\obj\Debug\aprendendo.csproj.CoreCompileInputs.cache
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\aprendendo\obj\Debug\aprendendo.exe
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\aprendendo\obj\Debug\aprendendo.pdb

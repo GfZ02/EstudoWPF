@@ -13,21 +13,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace aprendendo
+namespace Barzinho
 {
     /// <summary>
-    /// Interação lógica para MainWindow.xam
+    /// Interação lógica para Mesas.xam
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Mesas : Page
     {
-        public MainWindow()
+        public Mesas()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }

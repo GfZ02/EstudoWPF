@@ -1,0 +1,15 @@
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\Barzinho\bin\Debug\Barzinho.exe.config
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\Barzinho\bin\Debug\Barzinho.exe
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\Barzinho\bin\Debug\Barzinho.pdb
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\Barzinho\obj\Debug\Barzinho.csproj.AssemblyReference.cache
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\Barzinho\obj\Debug\MainWindow.g.cs
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\Barzinho\obj\Debug\App.g.cs
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\Barzinho\obj\Debug\Barzinho_MarkupCompile.cache
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\Barzinho\obj\Debug\Barzinho_MarkupCompile.lref
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\Barzinho\obj\Debug\MainWindow.baml
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\Barzinho\obj\Debug\Barzinho.g.resources
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\Barzinho\obj\Debug\Barzinho.Properties.Resources.resources
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\Barzinho\obj\Debug\Barzinho.csproj.GenerateResource.cache
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\Barzinho\obj\Debug\Barzinho.csproj.CoreCompileInputs.cache
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\Barzinho\obj\Debug\Barzinho.exe
+C:\Users\Faria\Desktop\Rep Work\EstudoWPF\Barzinho\obj\Debug\Barzinho.pdb

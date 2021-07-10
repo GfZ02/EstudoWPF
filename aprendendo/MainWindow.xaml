@@ -12,5 +12,28 @@
         AllowsTransparency="True">
 
     <Border Background="#272537"
-            CornerRadius="30"/>
+            CornerRadius="30">
+
+        <Border 
+                CornerRadius="30"
+                Background="#202030"
+                HorizontalAlignment="Left" Height="600" VerticalAlignment="Top" Width="285">
+            <Border Background="#272537"
+                    HorizontalAlignment="Left" 
+                    Height="48" Margin="0,180,0,0" 
+                    VerticalAlignment="Top" 
+                    Width="285">
+                <Button 
+                    FontFamily="Montserrat"
+                    FontSize="20"
+                    BorderThickness="0"
+                    Background="#272537"
+                    Content="Automações" 
+                    Click="Button_Click"/>
+            </Border>
+            
+            
+        </Border>
+    </Border>
+
 </Window>
