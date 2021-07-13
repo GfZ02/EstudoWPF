@@ -120,26 +120,17 @@
                     Background="#707070">
 
         </StackPanel>
-        <Border BorderBrush="Black" 
-                BorderThickness="1"
-                Grid.Column="1"
-                HorizontalAlignment="Left"
-                Height="30" 
-                Margin="10.4,10,0,0" 
-                VerticalAlignment="Top" 
-                Width="722"
-                Background="White"
-                CornerRadius="10">
-            <TextBox TextWrapping="Wrap" 
-                     Text="TextBox"
-                     Height="28"
-                     Width="700"
-                     HorizontalAlignment="Center"
-                     BorderThickness="0"
-                     FontSize="18"
-                     VerticalAlignment="Center"
-                     />
-        </Border>
+
+        <StackPanel Grid.Column="1"
+                    Height="570">
+
+            <Grid>
+                <StackPanel x:Name="pnprin">
+                    
+                </StackPanel>
+            </Grid>
+
+        </StackPanel>
 
 
 

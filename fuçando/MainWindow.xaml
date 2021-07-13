@@ -1,0 +1,104 @@
+﻿<Window x:Class="fuçando.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:fuçando"
+        mc:Ignorable="d"
+        Title="AutoTask X" Height="450" Width="800"
+        Background="#347BD9"
+        ResizeMode="NoResize">
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition
+                Width="200"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <DockPanel
+            Background="#4546F0">
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition
+                        Height="120"/>
+                    <RowDefinition
+                        Height="50"/>
+                    <RowDefinition
+                        Height="50"/>
+                    <RowDefinition
+                        Height="50"/>
+                    <RowDefinition
+                        Height="50"/>
+                </Grid.RowDefinitions>
+
+                <StackPanel Grid.Row="1">
+                    <Border>
+                        <Button
+                            x:Name="bt1"
+                            Height="50"
+                            Background="#4546F0"
+                            BorderThickness="0"
+                            Content="Automações"
+                            FontFamily="Montserrat"
+                            FontSize="18"
+                            HorizontalContentAlignment="Left"
+                            VerticalContentAlignment="Center"
+                            Padding="20,0,0,0"
+                            FontWeight="SemiBold"
+                            Foreground="#000000" Click="bt1_Click"
+                            />
+                    </Border>
+                </StackPanel>
+
+                <StackPanel Grid.Row="2">
+                    <Border>
+                        <Button
+                            x:Name="bt2"
+                            Height="50"
+                            Background="#4546F0"
+                            BorderThickness="0"
+                            Content="Suporte"
+                            FontFamily="Montserrat"
+                            FontSize="18"
+                            HorizontalContentAlignment="Left"
+                            VerticalContentAlignment="Center"
+                            Padding="20,0,0,0"
+                            FontWeight="SemiBold"
+                            Foreground="#000000" Click="bt2_Click"
+                            >
+                        </Button>
+                    </Border>
+                </StackPanel>
+
+                <StackPanel Grid.Row="3">
+                    <Border>
+                        <Button
+                            x:Name="bt3"
+                            Height="50"
+                            Background="#4546F0"
+                            BorderThickness="0"
+                            Content="Relatórios"
+                            FontFamily="Montserrat"
+                            FontSize="18"
+                            HorizontalContentAlignment="Left"
+                            VerticalContentAlignment="Center"
+                            Padding="20,0,0,0"
+                            FontWeight="SemiBold"
+                            Foreground="#000000" Click="bt3_Click"
+                            >
+                        </Button>
+                    </Border>
+                </StackPanel>
+
+            </Grid>
+            
+        </DockPanel>
+
+        <Frame Grid.Column="1"
+                   x:Name="pnprinc"
+               NavigationUIVisibility="Hidden"/>
+
+    </Grid>
+</Window>
